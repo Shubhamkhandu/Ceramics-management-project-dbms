@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">The Tile Shop</string>
+    <string name="newuser">Sign Up</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="adp">Admin Portal</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="tiles1">Floor Tiles</string>
+    <string name="tiles2">Glazed Vitrified Tiles</string>
+    <string name="tiles3">Paving Tiles</string>
+    <string name="tiles4">Polished Vitrified Tiles</string>
+    <string name="tiles5">Roofing Tiles</string>
+    <string name="tiles6">Wall Tiles</string>
+
+    <string name="basin1">Colored Ceramic</string>
+    <string name="basin2">Marbel Basins</string>
+    <string name="basin3">Resin Washbasins</string>
+    <string name="basin4">Wall Mounted Basins</string>
+    <string name="basin5">Table Mounted Basins</string>
+    <string name="basin6">Wooden Basins</string>
+
+    <string name="sandf1">Digital Showers</string>
+    <string name="sandf2">Electric Showers</string>
+    <string name="sandf3">Mixer Showers</string>
+    <string name="sandf4">Power Showers</string>
+    <string name="sandf5">Pillar Taps</string>
+    <string name="sandf6">Mixer Taps</string>
+    <string name="sandf7">Long Handle Taps</string>
+    <string name="sandf8">Thermostatic Taps</string>
+
+    <string name="tub1">Alcove Bathtubs</string>
+    <string name="tub2">Drop-In Bathtubs</string>
+    <string name="tub3">Corner Bathtubs</string>
+    <string name="tub4">Free-Standing Bathtubs</string>
+
+    <string name="flush1">Duel Flush</string>
+    <string name="flush2">Double Cyclone</string>
+    <string name="flush3">Gravity Flush</string>
+    <string name="flush4">Pressure Assisted</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">LogIn</string>
+    <string name="action_sign_in_short">SignUp</string>
+    <string name="fpass">Forget Password?</string>
+    <string name="logout">Log Out</string>
+    <string name="error_invalid_email">Email Id is Invalid</string>
+    <string name="error_invalid_password">Password is too short</string>
+    <string name="error_unmatched_password">Password field does not match</string>
+    <string name="error_incorrect_password">Password Incorrect</string>
+    <string name="error_field_required">Required Field</string>
+    <string name="error_field_contact">Invalid Contact</string>
+    <string name="error_field_supplier">Supplier Doesn\'t Exist</string>
+
+    <string name="name">Name</string>
+
+    <string name="fn">First Name</string>
+    <string name="ln">Last Name</string>
+    <string name="email">Email Id</string>
+    <string name="pass">Password</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="add">Address</string>
+    <string name="count">Country</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="pin">Pin Code</string>
+    <string name="already">Already have a Account?</string>
+    <string name="contact">Contact</string>
+    <string name="adminl">Login As Admin</string>
+    <string name="adlogin">Admin Login</string>
+    <string name="tiles">Tiles</string>
+    <string name="basin">Basins</string>
+    <string name="sandf">Showers And Fittings</string>
+    <string name="tub">Bath Tubs</string>
+    <string name="flush">Flushing Systems</string>
+
+    <string name="a1">Products</string>
+    <string name="a2">Add Products</string>
+    <string name="a3">Delete Products</string>
+    <string name="a4">Display Products</string>
+    <string name="a5">Update Products</string>
+    <string name="b1">Customers</string>
+    <string name="b2">Display Customers</string>
+    <string name="b3">Display Customer Orders</string>
+    <string name="c1">Suppliers</string>
+    <string name="c2">Add Suppliers</string>
+    <string name="c3">Delete Suppliers</string>
+    <string name="c4">Display Suppliers</string>
+    <string name="c5">Purchase From Supplier</string>
+
+    <string name="productname">Product Name</string>
+    <string name="producttype">Product Type</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Price">Price (Rs.)</string>
+    <string name="Brandname">Brand Name</string>
+
+    <string name="id">Supplier-ID</string>
+
+    <string name="ad">Add</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="zero">0</string>
+    <string name="adcart">Add To Cart</string>
+
+    <string name="close">Close</string>
+
+    <string name="ordern">Order ID</string>
+    <string name="purn">Purchase ID</string>
+    <string name="TotalP">Total Price (Rs.)</string>
+    <string name="prodID">Product ID</string>
+    <string name="suname">Supplier Name</string>
+</resources>

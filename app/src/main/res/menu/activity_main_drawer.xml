@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_action_add_shopping_cart"
+            android:title="My Cart" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_action_account_circle"
+            android:title="Log Out" />
+    </group>
+
+    <item android:title="Products">
+        <menu>
+            <item
+                android:id="@+id/nav_tiles"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Tiles" />
+            <item
+                android:id="@+id/nav_basins"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Basins" />
+            <item
+                android:id="@+id/nav_pipes"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Pipes and Fittings" />
+            <item
+                android:id="@+id/nav_tanks"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Tanks" />
+            <item
+                android:id="@+id/nav_showers"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Showers and Faucets" />
+            <item
+                android:id="@+id/nav_tub"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Bath Tubs" />
+            <item
+                android:id="@+id/nav_flush"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Flushing Systems" />
+        </menu>
+    </item>
+
+</menu>
